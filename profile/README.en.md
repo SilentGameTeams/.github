@@ -1,32 +1,41 @@
-# Silent Game
+<div align="center">
+
+# 🎮 Silent Game
 
 **A development team under SilentStudio**
 
 [简体中文](README.md) | English | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
-Silent Game is a development team under SilentStudio, focused on game engines, real-time simulation, cross-platform games and player tools. Our projects are not necessarily open source; public projects are marked as such.
+</div>
 
-The team works across multiple projects and directions; we do not list them individually here. We focus on engineering quality, maintainability, multi-language and multi-platform practice, and collaboration with the community.
+We make games, and the things that make games run: engines, tools, and the details players only notice when they're missing.
 
-## Contributing
+Our projects aren't necessarily open source; the public ones are labelled. Unlabelled doesn't mean hidden — it means not fit to be seen yet.
+
+## 📌 Lately
+
+- **Nov 2026** — The feedback hub is open, in 17 languages. File in whichever one you think in.
+- **Nov 2026** — This page is live in eight languages. Translated by hand.
+- **Nov 2026** — Re-ran the engine decision from scratch. Numbers beat vibes.
+- **Nov 2026** — Checked every standard cited in a design doc and found three wrong. Verifying is slower than writing, faster than redoing.
+
+## 🧭 What we're about
+
+- **Honest simulation** — slow over fake.
+- **One game, four platforms** — not four ports.
+- **Done means tested** — untested is a hope, not a deliverable.
+
+## 🤝 Contributing
 
 - Public projects welcome issues and pull requests; private projects are not open to external contributions.
-- Follow each repository's CONTRIBUTING
-- Do not overwrite others' work; do not force-push main
+- Follow each repository's CONTRIBUTING.
+- Do not overwrite others' work; do not force-push main.
 
-## Maintenance and security
-
-- Silent Game takes security reports seriously and responds transparently. This policy applies to projects maintained by Silent Game.
-- The latest stable release receives full security updates; the previous stable release receives critical fixes only; older releases on request.
-- Report vulnerabilities to SilentStudio@feedback.email.cn. Do not disclose details publicly before a fix.
-- Confirmation within 24 hours; validation within 48 hours; critical fix plan within 7 days; medium and low risk within 14 days.
-- Good-faith reporters will not be pursued. Do not abuse data or disrupt systems.
-- Use only on systems you own or are authorized to test. No stealth, evasion or unauthorized remote control.
-- Last updated: 2026-11-05.
-
-## Links
+## 🔗 Links
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio project index: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
 - Feedback: https://github.com/SilentGameTeams/feedback
 - Contact: SilentStudio@Home.email.cn
+
+Last updated: 2026-11-05
