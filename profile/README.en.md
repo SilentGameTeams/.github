@@ -1,37 +1,32 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Silent Game" width="100%">
+</p>
 
-# 🎮 Silent Game
+<p align="center">
 
-**A development team under SilentStudio**
+  <a href="README.md">简体中文</a> · English · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.ru.md">Русский</a>
+</p>
 
-[简体中文](README.md) | English | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
+Silent Game is the games team at SilentStudio.
 
-</div>
+We build for Windows, macOS, iOS and Android, and write the engine, tools and formats underneath. Most of the work happens where players never look.
 
-We make games, and the things that make games run: engines, tools, and the details players only notice when they're missing.
+Projects aren't always open source. The public ones say so.
 
-Our projects aren't necessarily open source; the public ones are labelled. Unlabelled doesn't mean hidden — it means not fit to be seen yet.
+## Recently
 
-## 📌 Lately
+- 2026-11-05 — Feedback repo opens, templates in 17 languages
+- 2026-11-05 — Org profile live in eight languages
+- 2026-11-02 — Engine choice redone; the reasoning is written down
+- 2026-10-31 — Checked every standard cited in a design doc. Three didn't match.
 
-- **Nov 2026** — The feedback hub is open, in 17 languages. File in whichever one you think in.
-- **Nov 2026** — This page is live in eight languages. Translated by hand.
-- **Nov 2026** — Re-ran the engine decision from scratch. Numbers beat vibes.
-- **Nov 2026** — Checked every standard cited in a design doc and found three wrong. Verifying is slower than writing, faster than redoing.
+## Contributing
 
-## 🧭 What we're about
+- Public projects take issues and pull requests. Private ones stay private.
+- Follow the CONTRIBUTING file in each repo.
+- Don't overwrite other people's work, and don't force-push main.
 
-- **Honest simulation** — slow over fake.
-- **One game, four platforms** — not four ports.
-- **Done means tested** — untested is a hope, not a deliverable.
-
-## 🤝 Contributing
-
-- Public projects welcome issues and pull requests; private projects are not open to external contributions.
-- Follow each repository's CONTRIBUTING.
-- Do not overwrite others' work; do not force-push main.
-
-## 🔗 Links
+## Links
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio project index: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList

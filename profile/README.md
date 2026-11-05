@@ -1,37 +1,32 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Silent Game" width="100%">
+</p>
 
-# 🎮 Silent Game
+<p align="center">
 
-**SilentStudio 旗下的开发团队**
+  简体中文 · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.ru.md">Русский</a>
+</p>
 
-简体中文 | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
+Silent Game 是 SilentStudio 旗下的游戏团队。
 
-</div>
+做 Windows、macOS、iOS、Android 四端的游戏，也写下面的引擎、工具和格式。大部分时间花在玩家看不见的地方。
 
-我们做游戏，也做让游戏跑得起来的东西：引擎、工具，还有那些玩家不会注意到、但少了就难受的细节。
+项目不一定开源，公开的会标注。
 
-我们的项目不一定开源；公开的会明确标注。没标的不是藏着，是还没收拾好。
+## 最近
 
-## 📌 最近
+- 2026-11-05　反馈仓库开张，17 种语言的问题模板
+- 2026-11-05　组织主页上线，八种语言
+- 2026-11-02　引擎选型重算，结论写进了决策记录
+- 2026-10-31　核了一遍设计文档里引的标准，三条对不上号
 
-- **2026-11** — 反馈入口开张，17 种语言。用哪种语言提都行。
-- **2026-11** — 这页上线，八种语言。翻译是手写的。
-- **2026-11** — 把引擎选型重新算了一遍。数字比感觉可靠。
-- **2026-11** — 逐条核了一份设计文档引用的标准，抓出三处引错。查证比写作慢，比返工快。
-
-## 🧭 我们在做什么
-
-- **真实的模拟** — 宁可慢，不假装。
-- **四端一致** — 是同一款游戏，不是四次移植。
-- **能测的才算做完** — 没验过的叫希望，不叫完成。
-
-## 🤝 参与
+## 参与
 
 - 公开项目欢迎 issue 和 pull request；非公开项目不对外。
 - 遵守各仓库的 CONTRIBUTING。
 - 不覆盖他人的工作，不 force-push main。
 
-## 🔗 链接
+## 链接
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio 项目索引: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList

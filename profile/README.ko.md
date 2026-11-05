@@ -1,37 +1,32 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Silent Game" width="100%">
+</p>
 
-# 🎮 Silent Game
+<p align="center">
 
-**SilentStudio 산하 개발 팀**
+  <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · 한국어 · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.ru.md">Русский</a>
+</p>
 
-[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | 한국어 | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
+Silent Game은 SilentStudio의 게임 팀입니다.
 
-</div>
+Windows, macOS, iOS, Android용으로 만들고, 그 아래의 엔진과 도구, 데이터 형식도 직접 씁니다. 작업의 대부분은 플레이어가 보지 않는 곳에서 일어납니다.
 
-게임을 만듭니다. 그리고 게임이 돌아가게 하는 것들도 — 엔진, 도구, 플레이어는 모르지만 없으면 불편한 디테일까지.
+프로젝트가 항상 오픈소스는 아닙니다. 공개한 것은 그렇게 표시합니다.
 
-프로젝트가 반드시 오픈소스인 것은 아닙니다. 공개한 것은 그렇게 표시합니다. 표시가 없다고 숨긴 건 아니고, 아직 보여줄 만큼 정리되지 않았다는 뜻입니다.
+## 최근
 
-## 📌 최근
+- 2026-11-05　피드백 저장소 공개. 17개 언어 템플릿
+- 2026-11-05　조직 페이지를 8개 언어로 공개
+- 2026-11-02　엔진 선택을 다시 계산하고 결론을 기록에 남김
+- 2026-10-31　설계 문서의 인용을 전부 확인. 세 개가 맞지 않았음
 
-- **2026-11** — 피드백 창구를 열었습니다. 17개 언어 템플릿, 생각하는 언어로 쓰세요.
-- **2026-11** — 이 페이지를 8개 언어로 공개했습니다. 번역은 직접 했습니다.
-- **2026-11** — 엔진 선택을 처음부터 다시 계산했습니다. 숫자가 감보다 믿을 만합니다.
-- **2026-11** — 설계 문서가 인용한 표준을 하나씩 확인해 세 곳의 오류를 찾았습니다. 확인은 쓰기보다 느리고, 다시 만들기보다 빠릅니다.
+## 참여
 
-## 🧭 우리가 중요하게 보는 것
-
-- **정직한 시뮬레이션** — 느려도, 속이지 않습니다.
-- **네 플랫폼에 같은 게임** — 네 번의 이식이 아닙니다.
-- **테스트해야 끝난 것** — 검증하지 않은 것은 완성이 아니라 희망입니다.
-
-## 🤝 참여
-
-- 공개 프로젝트에서는 issue와 pull request를 환영합니다. 비공개 프로젝트는 외부 기여를 받지 않습니다.
+- 공개 프로젝트는 issue와 pull request를 받습니다. 비공개 프로젝트는 외부에 열지 않습니다.
 - 각 저장소의 CONTRIBUTING을 따라 주세요.
-- 다른 사람의 작업을 덮어쓰지 말고 main에 force-push하지 마세요.
+- 다른 사람의 작업을 덮어쓰지 말고, main에 force-push하지 마세요.
 
-## 🔗 링크
+## 링크
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio 프로젝트 색인: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList

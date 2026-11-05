@@ -1,37 +1,32 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Silent Game" width="100%">
+</p>
 
-# 🎮 Silent Game
+<p align="center">
 
-**Une équipe de développement de SilentStudio**
+  <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · Français · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.ru.md">Русский</a>
+</p>
 
-[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | Français | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
+Silent Game est l'équipe jeux de SilentStudio.
 
-</div>
+Nous développons pour Windows, macOS, iOS et Android, et écrivons aussi le moteur, les outils et les formats en dessous. L'essentiel du travail se passe là où les joueurs ne regardent pas.
 
-Nous faisons des jeux, et ce qui les fait tourner : moteurs, outils, et ces détails que les joueurs ne remarquent que lorsqu'ils manquent.
+Les projets ne sont pas toujours open source. Ceux qui le sont le disent.
 
-Nos projets ne sont pas nécessairement open source ; ceux qui sont publics sont signalés. Sans mention, ce n'est pas caché — c'est juste pas encore présentable.
+## Récemment
 
-## 📌 Récemment
+- 2026-11-05 — Dépôt de retours ouvert, modèles en 17 langues
+- 2026-11-05 — Page d'organisation en ligne en huit langues
+- 2026-11-02 — Choix du moteur refait ; la conclusion est consignée
+- 2026-10-31 — Vérification des normes citées dans un document de conception. Trois ne correspondaient pas.
 
-- **nov. 2026** — Le guichet de retours est ouvert, en 17 langues. Écrivez dans celle où vous pensez.
-- **nov. 2026** — Cette page est en ligne en huit langues. Traduite à la main.
-- **nov. 2026** — Choix du moteur refait de zéro. Les chiffres valent mieux que l'intuition.
-- **nov. 2026** — Vérification de chaque norme citée dans un document de conception : trois erreurs trouvées. Vérifier prend plus de temps qu'écrire, moins que refaire.
+## Contribuer
 
-## 🧭 Ce qui compte pour nous
-
-- **Simulation honnête** — lente plutôt que fausse.
-- **Un jeu sur quatre plateformes** — pas quatre ports.
-- **Fini, c'est testé** — non vérifié, c'est un espoir, pas une livraison.
-
-## 🤝 Contribuer
-
-- Les projets publics accueillent les issues et pull requests ; les projets privés ne sont pas ouverts aux contributions externes.
+- Les projets publics acceptent les issues et pull requests. Les projets privés restent privés.
 - Suivez le CONTRIBUTING de chaque dépôt.
-- Ne remplacez pas le travail d'autrui ; ne force-push pas main.
+- Ne remplacez pas le travail d'autrui, et ne force-push pas main.
 
-## 🔗 Liens
+## Liens
 
 - SilentStudio : https://github.com/Silent-Studio-CN
 - Index des projets SilentStudio : https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
