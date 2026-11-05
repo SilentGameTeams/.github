@@ -1,0 +1,32 @@
+# Silent Game
+
+**Un equipo de desarrollo de SilentStudio**
+
+[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | Español | [Русский](README.ru.md)
+
+Silent Game es un equipo de desarrollo de SilentStudio, centrado en motores de juego, simulación en tiempo real, juegos multiplataforma y herramientas para jugadores. Nuestros proyectos no son necesariamente de código abierto; los proyectos públicos se marcan como tales.
+
+El equipo trabaja en varios proyectos y áreas, que no enumeramos individualmente aquí. Valoramos la calidad de ingeniería, el mantenimiento, las prácticas multilingües y multiplataforma, y la colaboración con la comunidad.
+
+## Contribuir
+
+- Los proyectos públicos aceptan issues y pull requests; los proyectos privados no están abiertos a contribuciones externas.
+- Sigue el CONTRIBUTING de cada repositorio
+- No sobrescribas el trabajo de otros; no hagas force-push a main
+
+## Mantenimiento y seguridad
+
+- Silent Game se toma en serio los informes de seguridad y responde con transparencia. Esta política se aplica a los proyectos mantenidos por Silent Game.
+- La última versión estable recibe todas las actualizaciones de seguridad; la anterior solo correcciones críticas; las más antiguas bajo petición.
+- Reporta vulnerabilidades a SilentStudio@feedback.email.cn. No divulgues detalles antes de una corrección.
+- Confirmación en 24 horas; validación en 48 horas; plan de corrección crítica en 7 días; riesgos medios y bajos en 14 días.
+- No se perseguirá a los informantes de buena fe. No abuses de los datos ni interrumpas sistemas.
+- Úsalo solo en sistemas que posees o estás autorizado a probar. Sin ocultación, evasión o control remoto no autorizado.
+- Última actualización: 2026-11-05.
+
+## Enlaces
+
+- SilentStudio: https://github.com/Silent-Studio-CN
+- Índice de proyectos de SilentStudio: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
+- Comentarios: https://github.com/SilentGameTeams/feedback
+- Contacto: SilentStudio@Home.email.cn
