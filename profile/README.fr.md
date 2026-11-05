@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Silent Game" width="100%">
+  <img src="assets/splash.gif" alt="Silent Game" width="100%">
 </p>
 
 <p align="center">
